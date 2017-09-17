@@ -7,7 +7,6 @@ import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.support.v4.app.NotificationCompat;
 
-
 public class SMNotificationManager {
 
     public static final int ID_SMALL_NOTIFICATION = 235;
