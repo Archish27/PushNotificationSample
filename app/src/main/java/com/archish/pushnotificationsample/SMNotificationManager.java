@@ -10,7 +10,6 @@ import android.support.v4.app.NotificationCompat;
 public class SMNotificationManager {
 
     public static final int ID_SMALL_NOTIFICATION = 235;
-
     private Context mCtx;
 
     public SMNotificationManager(Context mCtx) {
